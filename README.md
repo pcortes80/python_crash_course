@@ -1,2 +1,2 @@
-# python_crash_course
-Python Crash Course Exercises
+# Readme
+Exercises from the Python Crash Course book, 2nd edition.
