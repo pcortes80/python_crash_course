@@ -1,0 +1,9 @@
+Parameter: a piece of information the function needs to do its job.
+
+For instance, the funttion 
+def hello(username)
+needs the "username" parameter to do its job.
+
+Argument: a piece of information that's passed from a function call to a function. When we call the function, we place the value we want the function to wokr with in parenthesis. 
+
+For instance, the argument "patrick" is passed to the function hello(), and the value is assigned to the parameter "username".
